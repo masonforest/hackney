@@ -43,7 +43,7 @@ use Mix.Project
 
     def deps do
         [
-            {:idna, "~> 1.2.0"},
+            {:idna, "~> 2.0.0"},
             {:mimerl, "~> 1.0.2"},
             {:certifi, "~> 0.4.0"},
             {:metrics, "~> 1.0.1"},
